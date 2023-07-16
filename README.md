@@ -1,5 +1,5 @@
 # Mental Fitness Tracker ML Model
-##GLIMPSES
+## GLIMPSES
 
 
 https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/6158767a-e81d-445c-96a9-2edc206bca4d
