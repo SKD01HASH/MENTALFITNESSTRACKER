@@ -1,13 +1,9 @@
 # Mental Fitness Tracker ML Model
-
-[Glimpses to the Model](https://drive.google.com/file/d/1sYJVyy3oU0ZjKhpvn2dGuIVEZiUddVYQ/view?usp=sharing)
+##GLIMPSES
 
 
 https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/6158767a-e81d-445c-96a9-2edc206bca4d
 
-
-
-![giphy](https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/546f4ee9-95d2-4e2b-9cb5-b76167957e8e)
 ![9807296b-aedf-4644-a451-9c6d69c734c7](https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/05fcdf42-c509-4cef-a777-1b6a0d7d2a72)
 
 
