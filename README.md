@@ -1,6 +1,9 @@
 # Mental Fitness Tracker ML Model
 
-![giphy](https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/546f4ee9-95d2-4e2b-9cb5-b76167957e8e)![9807296b-aedf-4644-a451-9c6d69c734c7](https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/05fcdf42-c509-4cef-a777-1b6a0d7d2a72)
+[Glimpses to the Model](https://drive.google.com/file/d/1sYJVyy3oU0ZjKhpvn2dGuIVEZiUddVYQ/view?usp=sharing)
+
+![giphy](https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/546f4ee9-95d2-4e2b-9cb5-b76167957e8e)
+![9807296b-aedf-4644-a451-9c6d69c734c7](https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/05fcdf42-c509-4cef-a777-1b6a0d7d2a72)
 
 
 
@@ -120,4 +123,4 @@ Happy tracking!
 
 Pickle Model: [Mental Fitness Tracker Pickle Model](https://drive.google.com/file/d/1rM9qf4fBbQ1EQMxRxv5xeWOZDF4ysnwE/view?usp=share_link)
 
-Presentation: [Mental Fitness Tracker Presentation](https://drive.google.com/file/d/your_presentation_link)
+Presentation: [Mental Fitness Tracker Presentation](https://docs.google.com/presentation/d/1ZZ99QMfRMJ6Lbb57NCA4_DLDghP4-CMN/edit?usp=drive_link&ouid=109870843568571470302&rtpof=true&sd=true)
