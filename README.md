@@ -4,8 +4,6 @@
 
 https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/6158767a-e81d-445c-96a9-2edc206bca4d
 
-![9807296b-aedf-4644-a451-9c6d69c734c7](https://github.com/SKD01HASH/MENTALFITNESSTRACKER/assets/94286342/05fcdf42-c509-4cef-a777-1b6a0d7d2a72)
-
 
 
 Welcome to the Mental Fitness Tracker ML Model repository! This project showcases my implementation of a machine learning model for tracking mental fitness. By utilizing the Random Forest Regression algorithm, this model provides valuable insights into mental well-being based on input features.
